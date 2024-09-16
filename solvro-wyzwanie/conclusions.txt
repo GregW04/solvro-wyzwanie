@@ -1,0 +1,1 @@
+The chosen technique of using normalized vecotrs is good, If I could experiment more I would go for OHE with PCA to reduce dimensionality
